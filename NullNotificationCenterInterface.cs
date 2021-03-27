@@ -19,7 +19,7 @@ namespace VoxelBusters.EssentialKit.NotificationServicesCore
 
         private static void LogNotSupported()
         {
-            Diagnostics.LogNotSupported("NotificationServices");
+            Diagnostics.LogNotSupported("Modified");
         }
 
         #endregion
